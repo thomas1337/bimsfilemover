@@ -1,5 +1,4 @@
 Add-Type -AssemblyName System.Windows.Forms
-$host.ui.RawUI.WindowTitle = "BimFileMover" # Plx nicht aendern
 
 ### EINSTELLUNGEN @BIM !!!
 	$from = "C:\dev\test" # Welchen Ordner scannen?
